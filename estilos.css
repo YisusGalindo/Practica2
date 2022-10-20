@@ -1,0 +1,12 @@
+body{
+	background-color: #D9A307;
+	color: #070E0B;
+}
+#barra a{
+	text-decoration: none;
+	color:#darkblue ;
+}
+#contenido a:hover{
+	text-decoration: underline;
+	color: green;
+}
